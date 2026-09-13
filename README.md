@@ -149,6 +149,22 @@ Some of the main findings from the analysis were:
 
 ---
 
+## 📊 Visualizations
+
+### UPI Transaction Volume Over Time
+
+![UPI Transaction Volume](images/upi_transaction_value.png)
+
+### Payment System Comparison
+
+![Payment System Comparison](images/payment_system_comparison.png)
+
+### Market Share of Payment Systems
+
+![Payment System Market Share](images/payment_mode_market_share.png)
+
+---
+
 ## 📓 Notebooks
 
 The project is divided into two notebooks:
