@@ -151,9 +151,9 @@ Some of the main findings from the analysis were:
 
 ## 📊 Visualizations
 
-### UPI Transaction Volume Over Time
+### UPI Monthly Transaction Value
 
-![UPI Transaction Volume](images/upi_transaction_value.png)
+![UPI Monthly Transaction Value](images/upi_transaction_value.png)
 
 ### Payment System Comparison
 
